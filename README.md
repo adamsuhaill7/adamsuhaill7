@@ -32,23 +32,15 @@
 ## 📂 Current Projects
 ### Data Science Project: Analysis of Factors Influencing Student Mental Health
 - **Description:** Explores various factors impacting student mental health, focusing on academic pressures, financial concerns, lifestyle choices, and dietary habits.
-- **Type:** Jupyter Notebook
-- **Status:** Public
 
 ### Data Management Assignment 1: Analysis of Factors Influencing Maternal Health Risks
 - **Description:** Investigates factors contributing to maternal health risks in rural Bangladesh, focusing on indicators like blood pressure, blood sugar, and heart rate.
-- **Type:** Jupyter Notebook
-- **Status:** Public
-
+- 
 ### Data Management Zeppelin Exercise
 - **Description:** Analyzes the MovieLens dataset using Apache Spark to extract insights on user ratings and popular movies.
-- **Type:** Jupyter Notebook
-- **Status:** Public
-
+  
 ### Data Management Assignment 2: Exploring Airline On-Time Performance
 - **Description:** Analyzes the on-time performance of airlines in 2005, focusing on delays, cancellations, and predictive factors.
-- **Type:** Jupyter Notebook
-- **Status:** Public
 
 ## 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/adam-suhail-ab7647225/)
