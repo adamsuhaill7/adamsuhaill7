@@ -30,7 +30,7 @@
 - **Bachelors in Chemical Engineering with Honours** (UKM, 2023)
 
 ## 📂 Current Projects
-### Data Science Project: Analysis of Factors Influencing Student Mental Health
+### Data Science Project 2: Analysis of Factors Influencing Student Mental Health
 - **Description:** Explores various factors impacting student mental health, focusing on academic pressures, financial concerns, lifestyle choices, and dietary habits.
 
 ### Data Management Assignment 1: Analysis of Factors Influencing Maternal Health Risks
