@@ -6,7 +6,7 @@
 - 💼 I'm working as an Assistant Researcher at PETRONAS, focusing on innovative graphene production projects.
 - 🔍 I'm passionate about leveraging data science in engineering applications.
 
-## 🔧 Technologies & Tools
+## 🔧 Skills & Competency
 - **Languages:** Bahasa Malaysia (Native), English (Business-level)
 - **Software Skills:** AutoCAD, Microsoft Visio, SuperPro Designer, Microsoft Office Suite, Video Editing (Filmora 12, Adobe Premiere Pro, After Effects)
 - **Research Techniques:** Raman Spectroscopy, Particle Analysis
