@@ -12,12 +12,12 @@
 - **Research Techniques:** Raman Spectroscopy, Particle Analysis
 
 ## 🧩 Work Experience
-### Assistant Researcher, PETRONAS
+### Assistant Researcher, Petroliam Nasional Berhad (PETRONAS) 
 *April 2024 - Present*
-- Collaborated on proprietary projects like Carbon to Graphene.
+- Collaborated on proprietary projects like Carbon/CO2 to Graphene.
 - Conducted experiments optimizing graphene production and developed SOPs.
 
-### GEES Protege, PETRONAS
+### GEES Protege, Petroliam Nasional Berhad (PETRONAS)
 *October 2023 - April 2024*
 - Assisted in the proof of concept for high-temperature reactors and equipment management.
 
@@ -34,5 +34,3 @@
 - 📧 [Email](mailto:adamsuhail92@gmail.com)
 
 Feel free to check out my repositories below! 👇
-
-[![Your GitHub Stats]]
