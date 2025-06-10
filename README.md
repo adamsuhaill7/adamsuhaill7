@@ -30,7 +30,7 @@
 - **Bachelors in Chemical Engineering with Honours** (UKM, 2023)
 
 ## 📫 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/adam-suhailab7647225)
+- 💼 [LinkedIn](https://www.linkedin.com/in/adam-suhail-ab7647225/)
 - 📧 [Email](mailto:adamsuhail92@gmail.com)
 
 Feel free to check out my repositories below! 👇
