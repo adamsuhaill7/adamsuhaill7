@@ -2,7 +2,7 @@
 
 ## 🌱 About Me
 - 🌍 Based in Seri Kembangan, Selangor, Malaysia.
-- 🎓 Bachelor's degree in Chemical Engineering with Honours from UKM (2023); currently a 2nd Year Master's student in Data Science & Analytics at UKM.
+- 🎓 Bachelor's in Chemical Engineering, (UKM, 2023); Master's in Data Science & Analytics (UKM, 2025).
 - 💼 Assistant Researcher at PETRONAS, focusing on innovative graphene production projects.
 - 🔍 Passionate about leveraging data science in engineering applications.
 
