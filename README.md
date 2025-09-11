@@ -26,7 +26,7 @@
 - Oversaw machinery maintenance and operations in a glove production plant.
 
 ## 📚 Education
-- **Masters in Data Science & Analytics** (Ongoing, UKM)
+- **Masters in Data Science & Analytics** (UKM, 2025)
 - **Bachelors in Chemical Engineering with Honours** (UKM, 2023)
 
 ## 📂 Current Projects
